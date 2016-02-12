@@ -1,6 +1,8 @@
 AUAV Hardware designs
 
-Website at: http://auav.com
+Website at: 
+http://auav.com
+https://pixhawk.org/modules/pixracer
 
 AUAV Pixracer is an open hardware design that is a evolution of the PixHawk design, following the OSHW 1.1 definition licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.
 
