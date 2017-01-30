@@ -31,7 +31,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 
 [Document1]
-DocumentPath=PIXRACER-R09.PcbDoc
+DocumentPath=PIXRACER-SERIALS-R12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -47,7 +47,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=PIXRACER-SD-USB-R09.SchDoc
+DocumentPath=PIXRACER-SD-USB-R12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -63,7 +63,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=PIXRACER-FMU-R09.SchDoc
+DocumentPath=PIXRACER-R12.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -79,7 +79,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=PIXRACER-IMU-R09.SchDoc
+DocumentPath=PIXRACER-POWER-R12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -95,7 +95,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=PIXRACER-SERIALS-R09.SchDoc
+DocumentPath=PIXRACER-FMU-R12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -111,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=PIXRACER-POWER-R09.SchDoc
+DocumentPath=PIXRACER-IMU-R12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -221,13 +221,13 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_SmartPDF]
-AutoOpenFile=0
+AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
 ProjectMode=-1
 ZoomPrecision=50
-AddNetsInformation=0
+AddNetsInformation=-1
 AddNetPins=-1
 AddNetNetLabels=-1
 AddNetPorts=-1
@@ -236,14 +236,14 @@ TemplateFilename=
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
-SCH_ShowNoErc=0
-SCH_ShowParameter=0
-SCH_ShowProbes=0
-SCH_ShowBlankets=0
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
 SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
-SCH_ShowNote=0
+SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
-SCH_ExpandLogicalToPhysical=0
+SCH_ExpandLogicalToPhysical=-1
 SCH_VariantName=[No Variations]
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
